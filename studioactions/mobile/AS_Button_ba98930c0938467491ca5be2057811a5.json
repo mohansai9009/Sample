@@ -1,0 +1,24 @@
+{
+    "AS_Button_ba98930c0938467491ca5be2057811a5": {
+        "id": "AS_Button_ba98930c0938467491ca5be2057811a5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashBoard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "90d477b4fb8c40f588265b8204a8c930"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__33fd6e5f26554d1eadd9851f1bf1d8bb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "getIdentityService();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
